@@ -73,3 +73,22 @@ DSD/
 自分の実装と他の人の実装を共存させる方法例
 
 ![cherry](./image/cherry.png)
+
+---
+
+# スケジュールをきめよう
+
+1章：19 page, ex 5
+2章：30 page, ex 6
+3章：34 page, ex 18
+4章：47 page, ex 12
+5章：16 page, ex 7
+6章：26 page, ex 10
+7章：34 page, ex 14
+8章：55 page, ex 12
+9章：32 page, ex 5
+10章：24 page, ex 9
+11章：54 page, ex 5
+12章：42 page, exなし
+
+---
