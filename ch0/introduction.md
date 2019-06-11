@@ -4,7 +4,7 @@
 
 # 使用する本
 
-![python3](./image/python3.jpg)
+<center><img src="./image/python3.jpg" width="400"></center>
 
 ---
 
@@ -41,7 +41,7 @@
 https://github.com/python-practice-for-dsd
 
 - メインのリポジトリを決めておき、そこから各自Forkして各々作業する
-![history](./image/git_history.png)
+<center><img src="./image/git_history.png" width="600"></center>
 
 - 同一リポジトリで各自ブランチ切ることも考えたが、historyがごちゃごちゃしそうだなと妄想
 - とはいえ、自分の実装を公開したくない人もいるかもなので、ここは検討
