@@ -1,4 +1,5 @@
 print("3-15")
+
 cats = [
     "Henri",
     "Grumpy",
@@ -15,12 +16,3 @@ life = {
     "other": {},
 }
 print(life)
-
-print("3-16")
-print(life.keys())
-
-print("3-17")
-print(life["animals"])
-
-print("3-18")
-print(life["animals"]["cats"])
