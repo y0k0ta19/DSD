@@ -16,4 +16,4 @@ life = {
     "other": {},
 }
 
-print(life["animals"])
+print(life["animals"].keys())
