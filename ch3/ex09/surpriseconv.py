@@ -2,13 +2,14 @@ surprise = ["Groucho", "Chico", "Harpo"]
 # surprise[-1] = "Harpo".lower()
 # print("Harpo".lower())
 surprise[-1] = surprise[-1].lower()
-print(surprise)
-surprise = surprise[::-1]
-print(surprise)
-surprise[0] = surprise[0].capitalize()
+print(surprise[-1])
+surprise[-1] = surprise[-1][::-1]
+print(surprise[-1])
+surprise[-1] = surprise[-1].capitalize()
 print(surprise)
 
 # result
-# ['Groucho', 'Chico', 'harpo']
-# ['harpo', 'Chico', 'Groucho']
-# ['Harpo', 'Chico', 'Groucho']
+# mbpA1989:ex09 y0k0ta19$ python3 surpriseconv.py                                                                                                  +[ex08-14]
+# harpo
+# oprah
+# ['Groucho', 'Chico', 'Oprah']
