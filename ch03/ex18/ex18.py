@@ -16,4 +16,5 @@ life = {
     "other": {},
 }
 
-print(life["animals"]["cats"])
+# print(life["animals"]["cats"])
+print(life.get("animals", {}).get("cats"))
