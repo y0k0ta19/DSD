@@ -5,13 +5,13 @@ cats = [
     "Grumpy",
     "Lucy",
 ]
-animails = {
+animals = {
     "cats": cats,
     "octopi": {},
     "emus": {},
 }
 life = {
-    "animals": animails,
+    "animals": animals,
     "plants": {},
     "other": {},
 }
